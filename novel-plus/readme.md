@@ -6,7 +6,7 @@
 
 **Vulnerability Impact Scope**
 
-`novel-plus< v5.1.0`
+`novel-plus < v5.1.0`
 
 **official website**
 
