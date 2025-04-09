@@ -2,7 +2,7 @@
 
 ##### Name:   邓俊锋
 
-## SQL injection vulnerability exists in novel-plus v5.1.0
+## Arbitrary File Read Vulnerability Exists in Novel-Plus v5.1.0 and Earlier Version
 
 **Vulnerability Impact Scope**
 
