@@ -26,7 +26,7 @@ Directory traversal vulnerability is a common web security flaw that allows atta
 
 `novel-admin\src\main\java\com\java2nb\common\controller\FileController.java,lines179-197.`
 
-![image-20250402224625364](/img/1.png)This code has a path traversal vulnerability for the following reasons:
+![image-20250402224625364](./img/1.png)This code has a path traversal vulnerability for the following reasons:
 
 1. **Unvalidated user-controllable parameter**:
 - The `filePath` parameter is user-controlled, and the code does not perform any validation or filtering on it.
