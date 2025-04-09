@@ -1,6 +1,6 @@
 ## Vulnerability Submitter
 
-##### Name:  邓俊锋
+##### Name:   邓俊锋
 
 ## SQL injection vulnerability exists in novel-plus v5.1.0
 
